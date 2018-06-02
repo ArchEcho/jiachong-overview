@@ -222,6 +222,7 @@ presets:
         - 1704
         - 1731
         - 1972
+        - 1991
 - - 无人机/秒锁
   - - - alwaysShownStates
       - []
@@ -806,6 +807,7 @@ presets:
         - 1915
         - 1972
         - 1982
+        - 1991
         - 1997
 - - 通用PvE
   - - - alwaysShownStates
@@ -2171,6 +2173,12 @@ tabSetup:
       - <color=0xFF27ae60>无人机/秒锁</color>
     - - overview
       - 无人机/秒锁
+    - - showAll
+      - true
+    - - showNone
+      - false
+    - - showSpecials
+      - false
 - - 3
   - - - bracket
       - null
