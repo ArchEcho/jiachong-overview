@@ -806,6 +806,7 @@ presets:
         - 1909
         - 1915
         - 1972
+        - 1981
         - 1982
         - 1991
         - 1997
@@ -1508,6 +1509,7 @@ presets:
         - 1922
         - 1923
         - 1972
+        - 1991
 - - 全部
   - - - alwaysShownStates
       - - 9
@@ -2054,7 +2056,7 @@ shipLabels:
   - - - post
       - ']</color></b></fontsize>'
     - - pre
-      - <fontsize=12><b><color=0xFF2ecc71> [
+      - <fontsize=12><b><color=0xFF2980b9> [
     - - state
       - 1
     - - type
@@ -2063,7 +2065,7 @@ shipLabels:
   - - - post
       - ']<color=0xFFffffff></b></fontsize>'
     - - pre
-      - <color=0xFF2980b9><fontsize=12><b>[
+      - <color=0xFF2ecc71><fontsize=12><b>[
     - - state
       - 1
     - - type
@@ -2173,12 +2175,6 @@ tabSetup:
       - <color=0xFF27ae60>无人机/秒锁</color>
     - - overview
       - 无人机/秒锁
-    - - showAll
-      - true
-    - - showNone
-      - false
-    - - showSpecials
-      - false
 - - 3
   - - - bracket
       - null
